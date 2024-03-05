@@ -1,0 +1,6 @@
+{
+    "postcode": "AAA AAA",
+    "address": "10 Downing Street",
+    "send_desktop_notifications": true,
+    "send_email_notifications": false
+}
